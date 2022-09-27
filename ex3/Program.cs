@@ -10,4 +10,4 @@ for (int i = 0; i < array.Length - 1; i++)
 array[7] = new Random().Next(1, 100);
 Console.Write(array[7]);
 Console.WriteLine("]");
-// boje moi kakoi pizdec kak je krivo ya eto napisal....
+// boje moi kakoi pizdec kak je krivo ya eto napisal....no ono rabotaet
